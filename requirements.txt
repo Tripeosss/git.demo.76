@@ -1,0 +1,5 @@
+# Optional dependencies for real LLM integrations
+# The agent works out-of-the-box using the built-in MockLLM / Rule-based engine!
+openai>=1.0.0
+google-genai>=0.1.0
+requests>=2.31.0
